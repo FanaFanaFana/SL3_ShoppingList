@@ -41,7 +41,7 @@ To build or run the app:
 
 You can download the latest APK here:  
 👉 [app-debug.apk](./app-debug.apk)  
-(Place your `.apk` in the repo and this link will work)
+
 
 ---
 
